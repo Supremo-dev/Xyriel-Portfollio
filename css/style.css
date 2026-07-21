@@ -1584,11 +1584,11 @@ input[type='text'] {
 
 .hero-right img{
 
-    width:400px;
+    width:500px;
 
-    height:400px;
+    height:500px;
 
-    border-radius:50%;
+    
 
     object-fit:cover;
 
@@ -1706,7 +1706,7 @@ gap:20px;
 
     display:grid;
 
-    grid-template-columns:380px 1fr;
+    grid-template-columns:1;
 
     gap:70px;
 
@@ -1739,6 +1739,8 @@ gap:20px;
     color:#666;
 
     line-height:1.9;
+
+    text-align:center;
 
 }
 
